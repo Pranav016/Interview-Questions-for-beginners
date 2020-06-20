@@ -1,6 +1,8 @@
 # Interview-Questions-for-beginners
 These are some beginner-friendly and very important interview questions in C++ that will help you get started if you are preparing for your interview for any big product based company.
 
+**I have simplified the problem statements for you and added them as comments above in the particular programs that might be difficult to identify just by reading their title**
+
 To get this whole repository in your device, you can use the 'git clone <HTTPS/SSH key>' command in your git bash to clone this repo in your device.
 To clone it to a particular folder, run command 'git clone <HTTPS/SSH> <FolderName>' in your git bash.
 
