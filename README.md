@@ -7,7 +7,7 @@ To get this whole repository in your device, you can use the 'git clone <HTTPS/S
 To clone it to a particular folder, run command 'git clone <HTTPS/SSH> <FolderName>' in your git bash.
 To download git refer to this link- https://git-scm.com/downloads
 
-You can also press the cone/download button on github itself to download a zip file of this repo.
+You can also press the clone/download button on github itself to download a zip file of this repo.
 
 To set up the environment for this repository, I would recommend Code Blocks IDE which you can download from this link- https://sourceforge.net/projects/codeblocks/
 
