@@ -3,8 +3,8 @@ These are some beginner-friendly and very important interview questions in C++ t
 
 **I have simplified the problem statements for you and added them as comments above in the particular programs that might be difficult to identify just by reading their title**
 
-To get this whole repository in your device, you can use the `git clone <HTTPS/SSH key>` command in your git bash to clone this repo in your device.
-To clone it to a particular folder, run command `git clone <HTTPS/SSH> <FolderName>` in your git bash.
+To get this whole repository in your device, you can use the `git clone https://github.com/Pranav016/Interview-Questions-for-beginners.git` command in your git bash to clone this repo in your device.
+To clone it to a particular folder, run command `git clone https://github.com/Pranav016/Interview-Questions-for-beginners.git <FolderName>` in your git bash.
 To download git refer to this link- https://git-scm.com/downloads
 
 You can also press the clone/download button on github itself to download a zip file of this repo.
